@@ -1,11 +1,26 @@
-.wrapper{
+.wrapper {
     width: 1024px;
     height: 100vh;
     Margin: 0 auto;
 }
- a{
+.text {
+    width: 800px;
+    height: 100vh;
+    Margin: 0 auto;
+    float: left;
+}
+
+a {
     font-style: italic;
 }
-.summary{
-    font-style: italic;  
+
+.summary {
+    font-style: italic;
+}
+
+img {
+    float: right;
+    width: 200px;
+    height: 250px;
+    margin-left: 50px; 
 }
