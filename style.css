@@ -1,0 +1,11 @@
+.wrapper{
+    width: 1024px;
+    height: 100vh;
+    Margin: 0 auto;
+}
+ a{
+    font-style: italic;
+}
+.summary{
+    font-style: italic;  
+}
