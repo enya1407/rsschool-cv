@@ -1,16 +1,22 @@
-What should a Junior Developer Resume contain?
+# Frontend Developer
 
-! Important: write your Resume in English if you can, if possible
-
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## 1.  Name
+    Eugeniya Ivanova
+## 2.  Contact Info
+   ### Email: *Enya1407@gmail.com*
+   ### Phone: *+375(29) 516-75-70*
+   ### Telegram: *@Enya1407*
+## 3. Summary 
+     Now I am in a job search. I have a lot of energy, a desire to develop, an analytical mindset and the ability to quickly understand new information. This area is very interesting for me and I would like to work in it.
+## 4. Skills 
+   * HTML
+   * CSS
+   * git
+## 7. Experience 
+   all free HTML and CSS courses on [HTML academy](https://htmlacademy.ru/profile/)id1173859
+## 8. Education 
+   Uncompleted higher education
+   **2012-2015 Mogilev State A. Kuleshov University
+   (Faculty of Slavic Philology -Journalis)**
+## 9. English 
+   Elementary(A1)
