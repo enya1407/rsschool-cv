@@ -6,7 +6,7 @@
    ---
 
 ## 2.  Contact Info
-   - Email: *Enya1407@gmail.com*
+   - Email: [*Enya1407@gmail.com*](mailto:Enya1407@gmail.com)
    - Phone: [*+375(29) 516-75-70*](tel:+375295167570)
    - Telegram: [*@Enya1407*](https://t.me/Enya1407)
 
