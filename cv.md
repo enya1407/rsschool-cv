@@ -24,16 +24,16 @@
 
  ---
 
-## 7. Experience 
+## 5. Experience 
   all free HTML and CSS courses on [HTML academy](https://htmlacademy.ru/profile/id1173859)
 
  ---
 
-## 8. Education 
+## 6. Education 
   **2012-2015 Mogilev State A. Kuleshov University (Faculty of Slavic Philology -Journalis)**
   _Uncompleted higher education_
 
   ---
 
-## 9. English 
+## 7. English 
     Elementary(A1)
